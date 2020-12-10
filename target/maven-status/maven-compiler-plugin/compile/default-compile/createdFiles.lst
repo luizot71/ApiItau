@@ -1,0 +1,16 @@
+com\itau\br\app\service\ParameterService.class
+com\itau\br\app\service\impl\TransferServiceImpl.class
+com\itau\br\app\service\TransferService.class
+com\itau\br\app\controller\TransferApiController.class
+com\itau\br\app\health\HealthCheckController.class
+com\itau\br\app\controller\ParameterController.class
+com\itau\br\app\producer\SwaggerProducer.class
+com\itau\br\app\TransferApplication.class
+com\itau\br\app\domain\response\TransferApiResponseDTO.class
+com\itau\br\app\exception\TransferApiException.class
+com\itau\br\app\domain\request\TransferApiRequestDTO.class
+com\itau\br\app\model\ParameterBuilder.class
+com\itau\br\app\repository\TransferRepository.class
+com\itau\br\app\model\Parameter.class
+com\itau\br\app\model\Client.class
+com\itau\br\app\repository\impl\TransferRepositoryImpl.class

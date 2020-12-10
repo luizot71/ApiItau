@@ -1,0 +1,13 @@
+
+b
+java:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(É“„úÿÿÿÿ8´ïéÃä.
+j
+java:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ğšî»úÿÿÿÿ8¦ùÑÃä.
+g
+java:S4488&"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Å¬ïÁ8¦ùÑÃä.
+c
+java:S44886"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†ç‘¸úÿÿÿÿ
+B
+java:S3457F"%String contains no format specifiers.(¹¶æ8ã«ôÃä.
+B
+java:S3457+"%String contains no format specifiers.(‚²ÊÄ8¿ÍÛÃä.

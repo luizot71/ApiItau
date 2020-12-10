@@ -1,0 +1,13 @@
+
+j
+java:S4488&"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(½œÈøÿÿÿÿ8ÁÀÀÂä.
+O
+java:S3416"9Update this logger to use "BankTransferController.class".(İ¤ê
+B
+java:S3457 "%String contains no format specifiers.(‰ÙÓ•8«·®Ãä.
+B
+java:S3457+"%String contains no format specifiers.(ÚÊôû8œ»öÂä.
+]
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ØİŞ£8ˆ¹°¹ä.
+l
+java:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(‰Û¾ûÿÿÿÿ8¶ã°¹ä.

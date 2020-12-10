@@ -1,0 +1,41 @@
+# Propriedades da aplicação SpringBoot
+spring:
+  main:
+    banner-mode: console
+  h2:
+    console:
+      enabled: true
+  datasource:
+    continue-on-error: false
+  jpa:
+    open-in-view: true
+
+application:
+  backing-services:
+    database:
+      username: sa
+      password:
+      driver-class-name: org.h2.Driver
+      url: jdbc:h2:mem:testdb;DB_CLOSE_DELAY=-1
+      path: /h2-console
+      enabled: true
+
+server:
+  port: 8080
+  servlet:
+    context-path: /
+
+#Configurações de banco de dados
+spring.jpa:
+  database: H2
+  generate-ddl: true
+  show-sql: true
+  hibernate:
+    ddl-auto: create
+  properties:
+    hibernate:
+      dialect: org.hibernate.dialect.H2Dialect
+      default_schema:
+
+platform: h2
+
